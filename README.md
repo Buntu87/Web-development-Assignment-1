@@ -34,6 +34,8 @@ The platform promotes sustainable fashion by enabling users to trade pre‑owned
 | Version Control    | GitHub                  |
 
 ---
+**Find below link to youtube video
+https://youtu.be/x-kM6MJywN4?si=ZD2I5x2piS8edus6
 
 **Installation Instructions**
 
